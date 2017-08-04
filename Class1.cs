@@ -8,6 +8,7 @@ public class Class1
 
         void setup()
         {
+            Console.WriteLine("Setup Done");
         }
 
         void Hello()
