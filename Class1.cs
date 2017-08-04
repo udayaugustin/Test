@@ -9,5 +9,10 @@ public class Class1
         void setup()
         {
         }
+
+        void Hello()
+        {
+            Console.WriteLine("Hello");
+        }
 	}
 }
